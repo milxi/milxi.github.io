@@ -1,0 +1,89 @@
+div.main{
+	display: inline-block;
+	background-color: white;
+
+}
+
+#menurow{ 
+	text-align: center;
+	size: 100px 100px;
+
+}
+
+
+html { 
+  background: url(soitto.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#netsk {
+	float: center;
+
+}
+#lasit {
+	float: right;
+}
+
+img{
+	float:right;
+	height:400px;
+	width:auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 100px;
+	margin-right: auto;
+	width: auto;
+	display: inline-block;
+	padding-top: 50px;
+}
+
+div{
+	float: center;
+    width: 400px;
+    height: 400px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 100px;
+    display: inline-block;
+    background-color: white;
+
+}
+a{
+	color: white;
+	text-decoration: none;
+	font-family: gothic;
+}
+
+h1{
+	color: darkgrey;
+	font-family: "helvetica";
+	text-align: center;
+
+}
+h2{
+	color: darkgrey;
+	font-family: "helvetica";
+	text-align: center;
+}
+
+
+
+button{background-color: lightgrey;
+	color: lightgrey;
+	border: 2px solid;
+	border-radius: 10px 40px 40px 40px;
+	margin-left: center;
+	margin-right: center;
+	a:link-color: white;
+
+}
+
+
+
+
+
+
+/*I changed the h1 color and this comment is only for me to see*/
